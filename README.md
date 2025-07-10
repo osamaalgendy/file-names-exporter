@@ -13,6 +13,16 @@ Here’s how the app looks in action:
 
 ---
 
+## 📥 Download
+
+You can download the latest version of the app for Windows:
+
+➡️ [**Download File Names Exporter (Windows .exe)**](https://github.com/osamaalgendy/file-names-exporter/releases/download/v1/File-Names-Exporter.exe)
+
+> No installation required — just download and run the `.exe` file.
+
+---
+
 ## 🚀 Features
 
 - Select any folder on your system
@@ -31,16 +41,4 @@ Here’s how the app looks in action:
 4. Click **"Export File Names to Excel"**
 5. Choose where to save the `.xlsx` file
 6. Done! 🎉 Your Excel file will include all file names in that folder
-
----
-
-
-
-## 📥 Download
-
-You can download the latest version of the app for Windows:
-
-➡️ [**Download File Names Exporter (Windows .exe)**](https://github.com/osamaalgendy/file-names-exporter/releases/download/v1/File-Names-Exporter.exe)
-
-> No installation required — just download and run the `.exe` file.
 
